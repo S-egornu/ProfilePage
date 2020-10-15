@@ -1,21 +1,6 @@
-.body
+body
 {
     background-color: blueviolet;
 
 }
-
-.sidebar{
-    border:8px solid purple;
-  }
-  ul{
-    float: right;
-    width: 200px;
-    border:10px solid yellow;
-    color: blue;  
-  }
-p {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-  }
+  
