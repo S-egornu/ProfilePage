@@ -1,9 +1,9 @@
 body
 {
 background-color:plum;
-
 }
-  
-p.double {
-    border-style: double;
+.border-radius
+{
+  border-radius:3px 3px 3px 3px solid black;
+
 }
