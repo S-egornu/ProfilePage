@@ -4,3 +4,6 @@ background-color:plum;
 
 }
   
+p.double {
+    border-style: double;
+}
